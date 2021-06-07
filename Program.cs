@@ -1,4 +1,4 @@
-﻿#region Prelude
+#region Prelude
 using System;
 using System.Linq;
 using System.Text;
